@@ -1,0 +1,4 @@
+Czasy mergowania były około 2-3 razy dłuższe niż 
+w przypadku zadania 1. Wynikać to może z tego, że w każdym
+procesie potomnym zwalniam pamięć kopii danych
+utworzonych dla procesów potomnych.

@@ -1,0 +1,6 @@
+
+Funkcje z biblioteki C
+	*Real time: 0.160000s
+
+Funkcje z biblioteki C
+	*Real time: 0.080000s

@@ -1,0 +1,5 @@
+Funkcje systemowe
+	*Real time: 0.150000s
+
+Funkcje z biblioteki C
+	*Real time: 0.050000s

@@ -1,0 +1,118 @@
+
+*****small_test - 5 pairs*****
+ SHORT FILES
+ merge_files
+	*Real time: 0.000000s
+	*User time: 0.000000s
+	*System time: 0.000000s
+ delete_blocks
+	*Real time: 0.000000s
+	*User time: 0.000000s
+	*System time: 0.000000s
+ add_and_delete blocks
+	*Real time: 0.000000s
+	*User time: 0.000000s
+	*System time: 0.000000s
+ MEDIUM FILES
+ merge_files
+	*Real time: 0.000000s
+	*User time: 0.000000s
+	*System time: 0.000000s
+ delete_blocks
+	*Real time: 0.000000s
+	*User time: 0.000000s
+	*System time: 0.000000s
+ add_and_delete blocks
+	*Real time: 0.000000s
+	*User time: 0.000000s
+	*System time: 0.000000s
+ BIG FILES
+ merge_files
+	*Real time: 0.000000s
+	*User time: 0.000000s
+	*System time: 0.000000s
+ delete_blocks
+	*Real time: 0.000000s
+	*User time: 0.000000s
+	*System time: 0.000000s
+ add_and_delete blocks
+	*Real time: 0.000000s
+	*User time: 0.000000s
+	*System time: 0.000000s
+*****medium_test - 50 pairs*****
+ SHORT FILES
+ merge files
+	*Real time: 0.000000s
+	*User time: 0.000000s
+	*System time: 0.000000s
+ delete_blocks
+	*Real time: 0.000000s
+	*User time: 0.000000s
+	*System time: 0.000000s
+ add_and_delete blocks
+	*Real time: 0.000000s
+	*User time: 0.000000s
+	*System time: 0.000000s
+ MEDIUM FILES
+ merge files
+	*Real time: 0.000000s
+	*User time: 0.000000s
+	*System time: 0.000000s
+ delete_blocks
+	*Real time: 0.000000s
+	*User time: 0.000000s
+	*System time: 0.000000s
+ add_and_delete blocks
+	*Real time: 0.000000s
+	*User time: 0.000000s
+	*System time: 0.000000s
+ BIG FILES
+ merge files
+	*Real time: 0.010000s
+	*User time: 0.000000s
+	*System time: 0.000002s
+ delete_blocks
+	*Real time: 0.020000s
+	*User time: 0.000002s
+	*System time: 0.000000s
+ add_and_delete blocks
+	*Real time: 0.030000s
+	*User time: 0.000000s
+	*System time: 0.000003s
+*****big_test - 500 pairs*****
+ SHORT FILES
+	*Real time: 0.040000s
+	*User time: 0.000000s
+	*System time: 0.000002s
+ delete blocks
+	*Real time: 0.010000s
+	*User time: 0.000001s
+	*System time: 0.000000s
+ add_and_delete
+	*Real time: 0.040000s
+	*User time: 0.000000s
+	*System time: 0.000001s
+ MEDIUM FILES
+	*Real time: 0.060000s
+	*User time: 0.000000s
+	*System time: 0.000002s
+ delete blocks
+	*Real time: 0.050000s
+	*User time: 0.000001s
+	*System time: 0.000001s
+ add_and_delete
+	*Real time: 0.090000s
+	*User time: 0.000000s
+	*System time: 0.000003s
+ BIF FILES
+	*Real time: 0.240000s
+	*User time: 0.000010s
+	*System time: 0.000011s
+ delete blocks
+	*Real time: 0.360000s
+	*User time: 0.000008s
+	*System time: 0.000014s
+ add_and_delete
+	*Real time: 0.370000s
+	*User time: 0.000009s
+	*System time: 0.000014s

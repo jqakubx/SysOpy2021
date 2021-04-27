@@ -1,0 +1,45 @@
+*******STATIC TEST******
+*****big_test - 500 pairs*****
+ BIF FILES
+ merge files
+	*Real time: 14.380000s
+	*User time: 0.000001s
+	*System time: 0.001397s
+ delete blocks
+	*Real time: 3.610000s
+	*User time: 0.000041s
+	*System time: 0.000187s
+ add_and_delete
+	*Real time: 4.530000s
+	*User time: 0.000035s
+	*System time: 0.000222s
+*******SHARED TEST******
+*****big_test - 500 pairs*****
+ BIF FILES
+ merge files
+	*Real time: 4.990000s
+	*User time: 0.000063s
+	*System time: 0.000159s
+ delete blocks
+	*Real time: 3.870000s
+	*User time: 0.000065s
+	*System time: 0.000156s
+ add_and_delete
+	*Real time: 2.470000s
+	*User time: 0.000075s
+	*System time: 0.000139s
+*******DYNAMIC TEST******
+*****big_test - 500 pairs*****
+ BIF FILES
+ merge files
+	*Real time: 2.630000
+	*User time: 0.000070
+	*System time: 0.000151
+ delete blocks
+	*Real time: 3.510000
+	*User time: 0.000061
+	*System time: 0.000172
+ add_and_delete
+	*Real time: 3.060000
+	*User time: 0.000052
+	*System time: 0.000178

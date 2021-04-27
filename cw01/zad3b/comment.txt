@@ -1,0 +1,3 @@
+Wyniki były bardzo podobne, nie różniły się znacząco.
+Ciężko jednoznacznie stwierdzić, które flagi były lepsze.
+Moim zdaniem najlepsze wyniki były dla flagi -O, następnie -O2 i -Os

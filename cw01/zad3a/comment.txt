@@ -1,0 +1,4 @@
+Przeprowadziłem testy dla duzego pliku(10000 wiersz)
+Najgorzej spisała się opcja statyczna
+Potem współdzielona
+Najlepsze czasy miała opcja dynamiczna

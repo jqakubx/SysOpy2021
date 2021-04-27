@@ -1,0 +1,39 @@
+*****small_test - 5 pairs*****
+ SHORT FILES
+	*Real time: 0.000000s
+	*User time: 0.000000s
+	*System time: 0.000000s
+ MEDIUM FILES
+	*Real time: 0.000000s
+	*User time: 0.000000s
+	*System time: 0.000000s
+ BIG FILES
+	*Real time: 0.000000s
+	*User time: 0.000000s
+	*System time: 0.000000s
+*****medium_test - 50 pairs*****
+ SHORT FILES
+	*Real time: 0.010000s
+	*User time: 0.000000s
+	*System time: 0.000000s
+ MEDIUM FILES
+	*Real time: 0.020000s
+	*User time: 0.000000s
+	*System time: 0.000000s
+ BIG FILES
+	*Real time: 0.040000s
+	*User time: 0.000000s
+	*System time: 0.000000s
+*****big_test - 500 pairs*****
+ SHORT FILES
+	*Real time: 0.130000s
+	*User time: 0.000000s
+	*System time: 0.000004s
+ MEDIUM FILES
+	*Real time: 0.110000s
+	*User time: 0.000000s
+	*System time: 0.000002s
+ BIF FILES
+	*Real time: 0.370000s
+	*User time: 0.000000s
+	*System time: 0.000002s
