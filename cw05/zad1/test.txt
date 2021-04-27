@@ -1,0 +1,9 @@
+skladniki1 = cat main.c | wc -l
+skladniki2 = cat main.c | head -10
+skladniki3 = sort
+skladniki4 = ps -aux    
+skladniki5 = wc -l
+
+skladniki1
+skladniki2 | skladniki3
+skladniki4 | skladniki5
