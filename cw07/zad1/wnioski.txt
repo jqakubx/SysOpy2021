@@ -1,0 +1,4 @@
+Dla N = 3, M = 3:
+Liczba pizz w piecu nie przekroczyła nigdy wartości maksymalnej i nikt z kucharzy nie musiał czekać co jest oczywiste bo było tylko 3 kucharzy i nie mogło być więcej pizz w piecu. Na stole prawie cały czas była maksymala liczba pizz i kucharze musieli czekać na wolne miejsce. Było to spowodowane dłuższym czasem dostawy i powrotu u kucharzy
+Dla N = 8 i M = 8:
+Zarówno w piecu jak i na stole cały czas było dużo pizz. Były kolejki do pieca. Dostawcy odbierali pizze i rozwozili, mimo to cały czas na stole było dużo pizz.
